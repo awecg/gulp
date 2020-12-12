@@ -1,2 +1,3 @@
 awecg
 life
+为啥远程仓库是`git@github.com:awecg/learnGit.git`
